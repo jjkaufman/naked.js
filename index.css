@@ -1,0 +1,51 @@
+body {
+    width: 960px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:visited{
+    color: blue;
+}
+
+.floater {
+    float: left;
+
+}
+.clear {
+    clear: both
+}
+
+.header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    width: 384px;
+    height: 192px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sub-header {
+    font-size: .5em;
+}
+
+.logo {
+    width: 384px;
+    height: 384px;
+}
+
+.inspiration {
+    width: 576px;
+    height: 576px;
+    white-space:pre-line;
+    font-size: 22px;
+}
+
+.void {
+    width: 960px;
+    height: 960px;
+    font-size: 20px;
+    text-overflow: ellipsis;
+}
