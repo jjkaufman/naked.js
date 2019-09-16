@@ -2,7 +2,7 @@
 
 naked.js allows web masters to show off the style of their div elements. naked.js calculates and installs responsive borders to the div that include a width and height displayed proudly.
 
-Inspired by 90s transparent electronics that let it all hangout. 
+Inspired by 90s transparent electronics that let it all hang out. 
 
 # Tutorial
 1. include the naked.js javascript file in your html
